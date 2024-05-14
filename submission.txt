@@ -1,0 +1,15 @@
+# Submission Details
+
+## Deployed Application URL
+- Home Page: https://nodejs-filesystem-evh3.onrender.com/
+- Create a File: https://nodejs-filesystem-evh3.onrender.com/create-file
+- Get All Files: https://nodejs-filesystem-evh3.onrender.com/get-files
+
+## GitHub Repository URL
+- GitHub Repository: https://github.com/athishsb/nodejs-filesystem.git
+
+## Last Commit Hash ID
+- Commit Hash: d59546ffbfd3882f38db0b62568390da2a6c1300
+
+## API Documentation
+- API Documentation: https://documenter.getpostman.com/view/34931362/2sA3JQ5f6E
